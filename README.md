@@ -1,2 +1,2 @@
 # mind
-read for us
+Just read for us
